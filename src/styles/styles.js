@@ -43,3 +43,11 @@ export const ResultItem = styled.Text`
   font-size: 15px;
   margin-bottom: 30px;
 `;
+
+export const PctArea = styled.View`
+  margin: 20px;
+  flex-direction: row;
+`;
+
+export const PctItem = styled.Button`
+`;
